@@ -1,0 +1,14 @@
+bool modelAmbientOcclusion false
+int32 modelBakeQuality 2
+int32 modelBakeTextureSize 512
+float modelEffectRange 60
+floats modelLODDistances
+	8
+	25
+	60
+	200
+end
+uint32 modelLODFlags0 0
+uint32 modelLODFlags1 0
+uint32 modelLODFlags2 12
+uint32 modelLODFlags3 13

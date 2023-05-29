@@ -1,0 +1,2 @@
+int32 BakeSplatterMeshBudget 8
+bool skinpaintAmbOccEnabled false
