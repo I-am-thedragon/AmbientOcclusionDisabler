@@ -1,0 +1,5 @@
+string8s replacementList
+	"bool 0x0521FC0E booloverrideValue -override"
+end
+
+bool 0x3B0BA260 false
